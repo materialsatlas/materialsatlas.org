@@ -1,2 +1,2 @@
 # materialsatlas.org
-General discussion of materialsatlas.org web service
+General discussion of [materialsatlas.org](materialsatlas.org) web service
